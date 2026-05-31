@@ -1,3 +1,5 @@
 # mayank-demo
-my first git repository \n
+my first git repository
+<br>
 Author - Mayank Kumar
+</br>
